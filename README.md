@@ -4,6 +4,12 @@
 
 Este projeto consiste na criação de uma página estática completa para a empresa fictícia "Host On Cloud Nine". O objetivo foi desenvolver uma interface limpa, atraente e funcional que se adapta a diferentes tamanhos de tela (desktops, tablets e celulares).
 
+<p align="center">
+  <a href="https://daniela02s.github.io/HostOnCloudNine/" target="_blank">
+    <strong>➡️ Acessar a demonstração ao vivo</strong>
+  </a>
+</p>
+
 ## ✨ Funcionalidades Principais
 
 * **Design Responsivo:** A interface se ajusta para proporcionar uma boa experiência em desktops, tablets e celulares, utilizando Media Queries.
