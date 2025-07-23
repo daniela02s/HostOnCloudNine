@@ -1,14 +1,20 @@
 # Host On Cloud Nine - Landing Page
 
-> Landing page responsiva para uma empresa de hospedagem de sites, desenvolvida como um projeto para praticar e demonstrar habilidades em HTML5 e CSS3 puro.
-
-Este projeto consiste na criação de uma página estática completa para a empresa fictícia "Host On Cloud Nine". O objetivo foi desenvolver uma interface limpa, atraente e funcional que se adapta a diferentes tamanhos de tela (desktops, tablets e celulares).
+<p align="center">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
 
 <p align="center">
   <a href="https://daniela02s.github.io/HostOnCloudNine/" target="_blank">
     <strong>➡️ Acessar a demonstração ao vivo</strong>
   </a>
 </p>
+
+> Landing page responsiva para uma empresa de hospedagem de sites, desenvolvida como um projeto para praticar e demonstrar habilidades em HTML5 e CSS3 puro.
+
+Este projeto consiste na criação de uma página estática completa para a empresa fictícia "Host On Cloud Nine". O objetivo foi desenvolver uma interface limpa, atraente e funcional que se adapta a diferentes tamanhos de tela (desktops, tablets e celulares).
 
 ## ✨ Funcionalidades Principais
 
